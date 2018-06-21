@@ -1,2 +1,2 @@
-# A4000RevB
+# A4000 Replica Project (Based on the Rev B)
 Amiga 4000 Replica project. Based on the A4000 Rev B and funded by Paul Rezendes and the generous contributions of the Amiga Community. The first candidate for final schematic is done and located in the Schematics folder. You will find a PDF and a PADS database file. To view the digital version you will need the free PADS viewer found at the Mentor Graphics website. Once final it will be converted to other formats as best as possible. 
