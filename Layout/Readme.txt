@@ -1,4 +1,4 @@
-Please review the attached PADS PCB database.
+FINAL layout is attached PADS PCB database.
 The design has been updated and follows the schematic netlist exactly.
 To view the plane data go to 'Tools' and then the 'Pour Manager', 'Plane Connect' and pour all. 
 
