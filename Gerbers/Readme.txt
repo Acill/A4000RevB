@@ -1,1 +1,2 @@
-This folder will contain the gerbers and manufacturing data needed to create new boards. Pick and place data will also be included in this area. I expect to have them generated within the next few days. 
+This folder will contain the gerbers for making new boards. These are not simple and the chance of a successful board from a low volume
+hobby fab will be very low. It is STONGLY advised to use a good reputable fab that understands Mentor Graphics exported data. 
