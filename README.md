@@ -5,4 +5,4 @@ The FINAL review is done and checks out. I have uploaded the new file in the lay
 The Altium file looks good. Supposedly Eagle will import an Accel ASCII database but my first try was not successful.  The file does not look correct. Worst case, those that know what to do can import the Gerber and recreate the database from it.  Eagle just does not have a good importer at this time. It will follow up with the fabrication documents and'pick and place' data.
 
 # Images
-<img src="https://https://github.com/Acill/A4000RevB/blob/master/Images/20180804_091312.jpg?raw=true" width="700"/> 
+<img src="https://github.com/Acill/A4000RevB/blob/master/Images/20180804_091312.jpg?raw=true"> 
