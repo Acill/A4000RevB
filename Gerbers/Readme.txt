@@ -3,3 +3,5 @@ Pre Generated Gerbers are currently on hold for public release. This is to allow
 If you paid more than $85 for a board you are being over charged from someone that is reselling the bord they got from the offical current supplier!!
 
 The boards seen here have been ordered from E-Teknet and had the 100% NetList test completed on them. https://www.e-teknet.com/
+
+The A4000DB file is the newly created daughter board from AranaNET. 
