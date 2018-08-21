@@ -4,4 +4,4 @@ If you paid more than $85 for a board you are being over charged from someone th
 
 The boards seen here have been ordered from E-Teknet and had the 100% NetList test completed on them. https://www.e-teknet.com/
 
-The A4000DB file is the newly created daughter board from AranaNET. 
+The A4000DB file is the newly created daughter board from AranaNET. https://github.com/arananet/A4000db
