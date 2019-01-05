@@ -6,4 +6,4 @@ The boards seen here have been ordered from E-Teknet and had the 100% NetList te
 
 The 4000DB file is the newly created daughter board from AranaNET. https://github.com/arananet/A4000db
 
-January 4th 2019: a4k-6x_pads_Jan2019 is a new complete version to send in for manufacturing boards. The previous version works fine but has an error that had solder mask over some of the ground pads for the DB9 mouse and jotytick ports bracket. Use this file for all furure boards. The original is left here for historical tracking. 
+January 4th 2019: a4k-6x_pads_Jan2019 is a new complete version to send in for manufacturing boards. The previous version works fine but has an error that had solder mask over some of the ground pads for the DB9 mouse and jotytick ports bracket. Use this file for all future boards. The original is left here for historical tracking. 
