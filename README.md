@@ -1,6 +1,8 @@
 # A4000 Replica Project (Based on the Rev B)
 Amiga 4000 Replica project. Based on the A4000 Rev B and organized by Paul Rezendes and the generous contributions of the Amiga Community. 
 
+IF YOU PRODUCE BOARDS YOU ***MUST*** TELL THE FACTORY TO IMPORT THE GERBERS AS A ***MENTOR PADS FORMAT PROJECT*** 
+
 Thank you Chucky for the locator build hosting! I recomend all go here during your builds for some great help!
 A4000 Locator Site: http://locator.reamiga.info/locator.php?project=A4000
 
