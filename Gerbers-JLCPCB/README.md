@@ -19,3 +19,7 @@ PCBA Remark:
 SMD PLCC sockets used in this project do not have placement pins. Ignore the holes or hole markers on the PCB for PLCC sockets and use pin 1 indicator on the silkscreen for the orientation of the sockets.
 
 Kavanoz, May 2024
+
+![Gerber-Viewer-Top](https://github.com/kavanoz64/A4000RevB/assets/45491268/0be9bebf-1044-4b27-a5ef-a5a94c76d58c)
+
+![Gerber-Viewer-Bottom](https://github.com/kavanoz64/A4000RevB/assets/45491268/a30536cc-f61f-42fc-be1f-9b431be66ee9)
