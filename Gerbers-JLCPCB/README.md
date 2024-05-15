@@ -20,6 +20,12 @@ SMD PLCC sockets used in this project do not have placement pins. Ignore the hol
 
 Kavanoz, May 2024
 
+Preview of new Gerbers
 ![Gerber-Viewer-Top](https://github.com/kavanoz64/A4000RevB/assets/45491268/0be9bebf-1044-4b27-a5ef-a5a94c76d58c)
 
 ![Gerber-Viewer-Bottom](https://github.com/kavanoz64/A4000RevB/assets/45491268/a30536cc-f61f-42fc-be1f-9b431be66ee9)
+
+Actual assembled PCB as produced by JLCPCB (There have been a slight update on the silkscreens after these were ordered)
+![Acill A4000D-Kavanoz-Top](https://github.com/kavanoz64/A4000RevB/assets/45491268/19b7a3a4-fcac-43ac-ace7-4eebed84f8a4)
+
+![Acill A4000D-Kavanoz-Bottom](https://github.com/kavanoz64/A4000RevB/assets/45491268/8514268a-7d6b-420d-af0f-d33664c9fdc0)
