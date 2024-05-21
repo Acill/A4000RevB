@@ -1,3 +1,5 @@
+*** IF YOU WISH TO PRODUCE YOUR OWN BOARDS PLEASE USE THE NEW GERBERS LOCATED HERE: https://github.com/Acill/A4000RevB/tree/master/Gerbers-JLCPCB ***
+
 Pre Generated Gerbers for public release. The goal is to not flood the communiety with cheap boards. Several peolple have contributed to funding board runs from a very high qualiety fab and they are available for sale on the popular forums and facebook groups. Its been asked that those generating boards respect the set price of $95. 
 
 If you paid more than $95 for a board you are being over charged from someone that is reselling the bord they got from the offical current supplier!!
