@@ -21,7 +21,8 @@ SMD PLCC sockets used in this project do not have placement pins. Ignore the hol
 Kavanoz, May 2024
 
 Preview of new Gerbers
-![Gerber-Viewer-Top](https://github.com/kavanoz64/A4000RevB/assets/45491268/c317cd29-d02b-4b72-921d-78aa41c33ef7)
+
+![Gerber-Viewer-Top](https://github.com/kavanoz64/A4000RevB/assets/45491268/0ce9b232-56a8-4c60-983f-a9036568ef47)
 
 ![Gerber-Viewer-Bottom](https://github.com/kavanoz64/A4000RevB/assets/45491268/a30536cc-f61f-42fc-be1f-9b431be66ee9)
 
