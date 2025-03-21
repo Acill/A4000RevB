@@ -3,7 +3,7 @@ Amiga 4000 Replica project. Based on the A4000 Rev B and organized by Paul Rezen
 
 *** IF YOU WISH TO PRODUCE YOUR OWN BOARDS PLEASE USE THE NEW GERBERS LOCATED HERE: https://github.com/Acill/A4000RevB/tree/master/Gerbers-JLCPCB ***
 
-IF YOU PRODUCE BOARDS USING ORIGINAL PROJECT FILES YOU ***MUST*** TELL THE FACTORY TO IMPORT THE GERBERS AS A ***MENTOR PADS FORMAT PROJECT*** The gerbers located here are already good for ise as JLCPCB. please read firther information in the gerber section. 
+IF YOU PRODUCE BOARDS USING ORIGINAL PROJECT FILES YOU ***MUST*** TELL THE FACTORY TO IMPORT THE GERBERS AS A ***MENTOR PADS FORMAT PROJECT*** The gerbers located here are already good for use as JLCPCB. please read firther information in the gerber section. 
 
 ***Thank you Chucky for the locator build hosting! I recomend all go here during your builds for some great help!
 A4000 Locator Site: http://locator.reamiga.info/locator.php?project=A4000***
