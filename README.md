@@ -3,6 +3,10 @@ Amiga 4000 Replica project. Based on the A4000 Rev B and organized by Paul Rezen
 
 *** IF YOU WISH TO PRODUCE YOUR OWN BOARDS PLEASE USE THE NEW GERBERS LOCATED HERE: https://github.com/Acill/A4000RevB/tree/master/Gerbers-JLCPCB ***
 
+ASCII (PADS) export has been added are are located into the ASCII folder. You can use this to import into other EDA applications. 
+
+By popular request I have added the project into Kicad. its available in the Kicad folder. Please commit any change back here and document them. 
+
 IF YOU PRODUCE BOARDS USING ORIGINAL PROJECT FILES YOU ***MUST*** TELL THE FACTORY TO IMPORT THE GERBERS AS A ***MENTOR PADS FORMAT PROJECT*** The gerbers located here are already good for use as JLCPCB. please read firther information in the gerber section. 
 
 ***Thank you Chucky for the locator build hosting! I recomend all go here during your builds for some great help!
