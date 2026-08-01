@@ -1,3 +1,5 @@
+This is a Mentor Graphics PADs layout! If you want to use something else the ASCII exports are located in the ASCII folder. You can import them into for example Kicad or Altium. 
+
 FINAL layout is attached PADS PCB database.
 The design has been updated and follows the schematic netlist exactly.
 To view the plane data go to 'Tools' and then the 'Pour Manager', 'Plane Connect' and pour all. 
